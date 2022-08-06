@@ -1,6 +1,22 @@
 {
-  "name": "prettier-config",
-  "version": "1.0.0",
-  "main": "index.json",
-  "license": "MIT"
+    "name": "@jbower493/prettier-config",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jbower493/prettier-config.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jbower493/prettier-config/issues"
+    },
+    "homepage": "https://github.com/jbower493/prettier-config#readme",
+    "peerDependencies": {
+        "prettier": "2.7.1"
+    }
 }
